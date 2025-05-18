@@ -1,2 +1,2 @@
 # tabnews-study
-Repositório destinado a estudos relacionados ao curso.dev.
+Acompanhamento da implementação do tabnews pelo curso.dev.
